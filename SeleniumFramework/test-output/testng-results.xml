@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52971" started-at="2019-03-06T22:29:56Z" finished-at="2019-03-06T22:30:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52971" started-at="2019-03-06T22:29:56Z" finished-at="2019-03-06T22:30:49Z">
+      <class name="utils.ExcelDataProvider">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:utils.ExcelDataProvider@1e88b3c]" name="setUpTest" is-config="true" duration-ms="21466" started-at="2019-03-06T22:29:56Z" finished-at="2019-03-06T22:30:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@1e88b3c]" name="test1" duration-ms="6060" started-at="2019-03-06T22:30:22Z" data-provider="test1data" finished-at="2019-03-06T22:30:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@1e88b3c]" name="test1" duration-ms="4883" started-at="2019-03-06T22:30:28Z" data-provider="test1data" finished-at="2019-03-06T22:30:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@1e88b3c]" name="test1" duration-ms="4502" started-at="2019-03-06T22:30:33Z" data-provider="test1data" finished-at="2019-03-06T22:30:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pqr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pqr123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@1e88b3c]" name="test1" duration-ms="6613" started-at="2019-03-06T22:30:38Z" data-provider="test1data" finished-at="2019-03-06T22:30:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="testDown()[pri:0, instance:utils.ExcelDataProvider@1e88b3c]" name="testDown" is-config="true" duration-ms="4617" started-at="2019-03-06T22:30:44Z" finished-at="2019-03-06T22:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDown -->
+      </class> <!-- utils.ExcelDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
